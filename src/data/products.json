@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "category": "Electrónica",
+    "price": 999,
+    "description": "Último modelo de Apple con cámara avanzada",
+    "image": "https://images.unsplash.com/photo-1592286927505-1def25115558?w=400",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "category": "Electrónica",
+    "price": 899,
+    "description": "Smartphone de última generación con pantalla AMOLED",
+    "image": "https://images.unsplash.com/photo-1511707267537-b85faf00021e?w=400",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "name": "Laptop Dell XPS 13",
+    "category": "Electrónica",
+    "price": 1299,
+    "description": "Portátil ultraligero y potente para profesionales",
+    "image": "https://images.unsplash.com/photo-1588872657840-790ff3bde7c5?w=400",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "name": "Auriculares Sony WH-1000XM5",
+    "category": "Electrónica",
+    "price": 399,
+    "description": "Auriculares con cancelación activa de ruido",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "name": "iPad Air",
+    "category": "Electrónica",
+    "price": 599,
+    "description": "Tablet de alto rendimiento para trabajo y entretenimiento",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400",
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "name": "Apple Watch Series 9",
+    "category": "Electrónica",
+    "price": 399,
+    "description": "Reloj inteligente con múltiples funciones de salud",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    "stock": 18
+  },
+  {
+    "id": 7,
+    "name": "Cámara Canon EOS R6",
+    "category": "Electrónica",
+    "price": 2499,
+    "description": "Cámara mirrorless profesional de alta resolución",
+    "image": "https://images.unsplash.com/photo-1606986628024-baeb0b6a79d3?w=400",
+    "stock": 5
+  },
+  {
+    "id": 8,
+    "name": "Televisor LG OLED 55\"",
+    "category": "Electrónica",
+    "price": 1899,
+    "description": "TV OLED 4K con excelente contraste y colores vibrantes",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+    "stock": 6
+  },
+  {
+    "id": 9,
+    "name": "Consola PlayStation 5",
+    "category": "Electrónica",
+    "price": 499,
+    "description": "Consola de videojuegos de próxima generación",
+    "image": "https://images.unsplash.com/photo-1607138639206-45d710fef5a1?w=400",
+    "stock": 7
+  },
+  {
+    "id": 10,
+    "name": "Drone DJI Air 3",
+    "category": "Electrónica",
+    "price": 749,
+    "description": "Dron compacto con cámara de alta calidad",
+    "image": "https://images.unsplash.com/photo-1506715925881-6aa4e888b500?w=400",
+    "stock": 9
+  },
+  {
+    "id": 11,
+    "name": "Aceite de Oliva Extra Virgen",
+    "category": "Primera Necesidad",
+    "price": 12,
+    "description": "Aceite premium de la mejor cosecha",
+    "image": "https://images.unsplash.com/photo-1474708121302-f1df3b8e38b6?w=400",
+    "stock": 50
+  },
+  {
+    "id": 12,
+    "name": "Leche Integral 1L",
+    "category": "Primera Necesidad",
+    "price": 3,
+    "description": "Leche fresca de vaca integral",
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=400",
+    "stock": 100
+  },
+  {
+    "id": 13,
+    "name": "Pan Integral 500g",
+    "category": "Primera Necesidad",
+    "price": 4,
+    "description": "Pan artesanal integral recién horneado",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400",
+    "stock": 80
+  },
+  {
+    "id": 14,
+    "name": "Huevos Docena",
+    "category": "Primera Necesidad",
+    "price": 5,
+    "description": "Huevos frescos de granja",
+    "image": "https://images.unsplash.com/photo-1582966473519-d6d7fd54ab36?w=400",
+    "stock": 120
+  },
+  {
+    "id": 15,
+    "name": "Queso Cheddar 500g",
+    "category": "Primera Necesidad",
+    "price": 8,
+    "description": "Queso cheddar de excelente calidad",
+    "image": "https://images.unsplash.com/photo-1452894692027-87f71572b406?w=400",
+    "stock": 40
+  },
+  {
+    "id": 16,
+    "name": "Jamón Serrano 200g",
+    "category": "Primera Necesidad",
+    "price": 15,
+    "description": "Jamón serrano ibérico de calidad premium",
+    "image": "https://images.unsplash.com/photo-1541810260435-007814447971?w=400",
+    "stock": 30
+  },
+  {
+    "id": 17,
+    "name": "Arroz Blanco 1Kg",
+    "category": "Primera Necesidad",
+    "price": 6,
+    "description": "Arroz blanco de grano largo",
+    "image": "https://images.unsplash.com/photo-1586969382620-e5c9d60c6d5a?w=400",
+    "stock": 150
+  },
+  {
+    "id": 18,
+    "name": "Pasta Integral 500g",
+    "category": "Primera Necesidad",
+    "price": 3,
+    "description": "Pasta integral sin aditivos",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400",
+    "stock": 110
+  },
+  {
+    "id": 19,
+    "name": "Café Molido 500g",
+    "category": "Primera Necesidad",
+    "price": 7,
+    "description": "Café premium molido fresco",
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=400",
+    "stock": 70
+  },
+  {
+    "id": 20,
+    "name": "Chocolate Puro 200g",
+    "category": "Primera Necesidad",
+    "price": 5,
+    "description": "Chocolate puro con 70% cacao",
+    "image": "https://images.unsplash.com/photo-1599599810694-f3de2b029dd8?w=400",
+    "stock": 90
+  },
+  {
+    "id": 21,
+    "name": "Manzanas Rojas 1Kg",
+    "category": "Primera Necesidad",
+    "price": 4,
+    "description": "Manzanas frescas y jugosas",
+    "image": "https://images.unsplash.com/photo-1560806e614371-56b778afcc55?w=400",
+    "stock": 200
+  },
+  {
+    "id": 22,
+    "name": "Tomates Cherry 500g",
+    "category": "Primera Necesidad",
+    "price": 3,
+    "description": "Tomates cherry orgánicos",
+    "image": "https://images.unsplash.com/photo-1592841494021-ff1df69e3b9f?w=400",
+    "stock": 80
+  },
+  {
+    "id": 23,
+    "name": "Brócoli Fresco 500g",
+    "category": "Primera Necesidad",
+    "price": 3,
+    "description": "Brócoli verde fresco",
+    "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=400",
+    "stock": 60
+  },
+  {
+    "id": 24,
+    "name": "Yogur Natural 500g",
+    "category": "Primera Necesidad",
+    "price": 4,
+    "description": "Yogur natural sin azúcares añadidos",
+    "image": "https://images.unsplash.com/photo-1590080876234-1a86f1131a01?w=400",
+    "stock": 85
+  },
+  {
+    "id": 25,
+    "name": "Miel Pura 500ml",
+    "category": "Primera Necesidad",
+    "price": 10,
+    "description": "Miel pura sin procesar",
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400",
+    "stock": 45
+  }
+]

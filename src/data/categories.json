@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Electrónica",
+    "description": "Dispositivos tecnológicos y electrónicos de última generación",
+    "icon": "📱"
+  },
+  {
+    "id": 2,
+    "name": "Primera Necesidad",
+    "description": "Productos esenciales para el hogar y la alimentación",
+    "icon": "🛒"
+  }
+]

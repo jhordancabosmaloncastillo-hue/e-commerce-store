@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Las mejores prácticas para comprar electrónica online",
+    "author": "Juan García",
+    "date": "2024-01-15",
+    "category": "Electrónica",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600",
+    "content": "Descubre los consejos más importantes para realizar compras seguras de electrónica en línea. Desde verificar vendedores hasta entender las garantías, te guiamos en cada paso.",
+    "excerpt": "Comprar electrónica online puede ser intimidante. Aquí te mostramos cómo hacerlo de forma segura..."
+  },
+  {
+    "id": 2,
+    "title": "Guía completa de nutrición: Productos de primera necesidad",
+    "author": "María López",
+    "date": "2024-01-10",
+    "category": "Nutrición",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600",
+    "content": "Aprende a seleccionar los mejores productos de primera necesidad para mantener una alimentación saludable. Recomendaciones de expertos en nutrición.",
+    "excerpt": "Una buena alimentación comienza en el supermercado. Te mostramos qué buscar..."
+  },
+  {
+    "id": 3,
+    "title": "Tendencias tecnológicas 2024: Lo que debes saber",
+    "author": "Carlos Pérez",
+    "date": "2024-01-05",
+    "category": "Tecnología",
+    "image": "https://images.unsplash.com/photo-1586253577742-f049cd451263?w=600",
+    "content": "Exploración de las tendencias tecnológicas más relevantes que marcarán 2024. Desde inteligencia artificial hasta dispositivos wearables.",
+    "excerpt": "2024 promete ser un año revolucionario en tecnología. Descubre qué cambios nos esperan..."
+  },
+  {
+    "id": 4,
+    "title": "Cómo ahorrar dinero en tu compra semanal",
+    "author": "Ana Martínez",
+    "date": "2023-12-28",
+    "category": "Consejos",
+    "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=600",
+    "content": "Estrategias prácticas para reducir tu presupuesto de compras sin sacrificar la calidad. Descubre dónde y cuándo comprar mejor.",
+    "excerpt": "Aprende a ser más inteligente con tu dinero en el supermercado..."
+  },
+  {
+    "id": 5,
+    "title": "Seguridad en compras online: Todo lo que necesitas saber",
+    "author": "Roberto Sánchez",
+    "date": "2023-12-20",
+    "category": "Seguridad",
+    "image": "https://images.unsplash.com/photo-1512941691920-25bda36dc643?w=600",
+    "content": "Protege tus datos personales y financieros al comprar en línea. Medidas de seguridad esenciales que debes conocer.",
+    "excerpt": "La seguridad en internet es fundamental. Aquí te decimos cómo protegerte..."
+  }
+]
